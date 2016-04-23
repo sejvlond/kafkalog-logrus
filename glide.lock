@@ -1,0 +1,15 @@
+hash: 9475c852306d181fe87dbb6e67a32c5255f030a69e3a82be7ff3d50a59020177
+updated: 2016-04-23T17:47:52.758601573+02:00
+imports:
+- name: github.com/golang/snappy
+  version: d1d908a252c22fd7afd36190d5cffb144aa8f777
+- name: github.com/sejvlond/go-kafkalog
+  version: 8ed6c0bca85daa5aa01a0bf129bebbec3eed61e2
+  subpackages:
+  - common
+  - writer
+  - encoder
+  - writer/iowriter
+- name: github.com/Sirupsen/logrus
+  version: 081307d9bc1364753142d5962fc1d795c742baaf
+devImports: []

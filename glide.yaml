@@ -1,0 +1,4 @@
+package: github.com/sejvlond/kafkalog-logrus
+import:
+- package: github.com/Sirupsen/logrus
+- package: github.com/sejvlond/go-kafkalog
